@@ -1,3 +1,3 @@
 # chatterino-x0.0
 
-foto koy
+![image](foto-falan/anayın_amı.png)
