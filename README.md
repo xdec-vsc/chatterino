@@ -1,2 +1,3 @@
-# chatterino
-ANAYIN AMI
+# chatterino-x0.0
+
+foto koy
